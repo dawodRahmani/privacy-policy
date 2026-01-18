@@ -10,6 +10,6 @@ The app may use third-party services provided by Google Play Services which may 
 No personal data is required to use this application.
 
 If you have any questions about this Privacy Policy, you can contact us at:
-Email: your-email@example.com
+Email: dawodrahmani45@gmail.com
 
 This privacy policy is effective as of January 2026.
